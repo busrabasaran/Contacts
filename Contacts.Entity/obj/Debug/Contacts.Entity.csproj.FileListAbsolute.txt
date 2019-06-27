@@ -1,0 +1,11 @@
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\bin\Debug\Contacts.Entity.dll.config
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\bin\Debug\Contacts.Entity.dll
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\bin\Debug\Contacts.Entity.pdb
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\bin\Debug\EntityFramework.dll
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\bin\Debug\EntityFramework.xml
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\obj\Debug\Contacts.Entity.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\obj\Debug\Contacts.Entity.csproj.CopyComplete
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\obj\Debug\Contacts.Entity.dll
+C:\Users\busra\source\repos\Contacts\Contacts.Entity\obj\Debug\Contacts.Entity.pdb

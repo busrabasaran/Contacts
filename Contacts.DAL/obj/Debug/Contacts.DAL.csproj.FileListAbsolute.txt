@@ -1,0 +1,15 @@
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\Contacts.DAL.dll.config
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\Contacts.DAL.dll
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\Contacts.DAL.pdb
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\Contacts.Entity.dll
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\EntityFramework.dll
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\Contacts.Entity.pdb
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\Contacts.Entity.dll.config
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\EntityFramework.xml
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\obj\Debug\Contacts.DAL.csprojAssemblyReference.cache
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\obj\Debug\Contacts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\obj\Debug\Contacts.DAL.csproj.CopyComplete
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\obj\Debug\Contacts.DAL.dll
+C:\Users\busra\source\repos\Contacts\Contacts.DAL\obj\Debug\Contacts.DAL.pdb
